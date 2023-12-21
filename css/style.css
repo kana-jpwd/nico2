@@ -42,6 +42,7 @@ img {
 }
 
 .index_mv {
+  height: 100vh;
   background-image: url(../img/mv.jpg);
   margin-bottom: 100px;
   width: 100%;
