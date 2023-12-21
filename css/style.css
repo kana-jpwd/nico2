@@ -51,13 +51,14 @@ img {
   height: 100vh;
   /* background-image: url(../img/mv.jpg); */
   /* background-image: url(../img/mv.jpg); */
-  background-image: url(../img/mv.jpg);
+  /* background-image: url(../img/mv.jpg); */
+  background:  url(../img/mv.jpg) no-repeat center fixed ;
   margin-bottom: 100px;
   width: 100%;
   background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
+  /* background-repeat: no-repeat; */
+  /* background-position: center; */
+  /* background-attachment: fixed; */
 }
 .workshop_mv {
   height: 50vh;
