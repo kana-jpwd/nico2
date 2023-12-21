@@ -40,22 +40,32 @@ img {
   transform: translateY(20px);
   transition: all 2s;
 }
-.header {
+/* .header {
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+} */
+.index_mv {
+  height: 100vh;
+  background-image: url(../img/mv.jpg);
+  margin-bottom: 100px;
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
 }
-.index_mv {
-  height: 100vh;
-  background-image: url(../img/mv.jpg);
-  margin-bottom: 100px;
-}
 .workshop_mv {
   height: 50vh;
   background-image: url(../img/workshop-kv.jpg);
   position: relative;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
 header .inner {
   height: 100px;
