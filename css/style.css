@@ -40,16 +40,8 @@ img {
   transform: translateY(20px);
   transition: all 2s;
 }
-/* .header {
-  width: 100%;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-} */
+
 .index_mv {
-  height: 100vh;
-  /* background-image: url(../img/mv.jpg); */
   background-image: url(../img/mv.jpg)
   margin-bottom: 100px;
   width: 100%;
