@@ -43,6 +43,7 @@ img {
 
 .index_mv {
   background-image: url(../img/mv.jpg)
+  height: 100vh;
   margin-bottom: 100px;
   width: 100%;
   background-size: cover;
